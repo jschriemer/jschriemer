@@ -25,7 +25,7 @@ Welcome to my Github page! I'm a software engineering student at the University 
 	target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a style="text-decoration: none;" href="https://medium.com/@jschriem"
+    <a style="text-decoration: none;" href="https://jschriemer.medium.com/"
 	target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
     </a>
