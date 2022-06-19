@@ -1,10 +1,10 @@
 Hey there, I'm John!
 <p>
   <a href="https://github.com/jschriemer">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Software%20engineering%20student;Cycling%20enthusiast;&width=480&height=35"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Software%20engineering%20Grad;Tennis%20enthusiast;&width=480&height=35"></a>
 </p>
 
-Welcome to my Github page! I'm a software engineering student at the University of Victoria, with a passion for web development. Feel free to explore my projects and get in touch.
+Welcome to my Github page! I just graduated from the University of Victoria with a degree in software engineering. I'm currently looking for full-stack development rolls here on the west coast. Feel free to explore my projects and get in touch.
 
 #### My favourite frameworks and languages
 <p>
