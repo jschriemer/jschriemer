@@ -1,15 +1,15 @@
-#### Hey there, I'm John!
+#### John Schriemer - Software Developer
 
-Welcome to my Github page! I just graduated from the University of Victoria with a degree in software engineering. I'm currently looking for front-end development & UI opportunities here on the west coast. Feel free to explore my projects and get in touch.
+Thanks for checking out my Github page. Majority of these projects are out of date, but I might cook up some new experiements for 2023.
 
-#### My favourite frameworks and languages
+#### Preferred frameworks and languages
 <p>
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-#### Lets Connect!
+#### Socials
 <h5>
   <a style="text-decoration: none;" href="https://www.linkedin.com/in/john-schriemer-7955181a1/"
 	target="_blank">
