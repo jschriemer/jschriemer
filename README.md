@@ -1,6 +1,6 @@
 #### John Schriemer - Software Developer
 
-Thanks for checking out my Github page. Majority of these projects are out of date, but I might cook up some new experiements for 2023.
+Thanks for checking out my Github page. Majority of these projects are out of date, but I might cook up some new experiments for 2023.
 
 #### Preferred frameworks and languages
 <p>
